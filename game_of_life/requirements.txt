@@ -1,0 +1,2 @@
+matplotlib==3.4.0
+cli_args==1.1.0
